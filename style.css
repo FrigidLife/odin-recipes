@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+    color: #184655;
+    font-size: 50px;
+}
+body {
+    background-color: #c1e1c1e0;
+    color: #184655;
+}
+.recipe_link {
+    font-size: 30px;
+}
+.inbody_header {
+    font-size: 40px;
+}
+
+
